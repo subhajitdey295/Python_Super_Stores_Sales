@@ -1,4 +1,5 @@
-# Syper_Stores_Sales_Using_Python (Link: 
+# Syper_Stores_Sales_Using_Python 
+(Link: https://nbviewer.org/github/subhajitdey295/Python_Super_Stores_Sales/blob/main/Super%20Store%20Sales%20Data.ipynb)
 
 Objective:
 ✔ Monthly Sales Analysis of the company
