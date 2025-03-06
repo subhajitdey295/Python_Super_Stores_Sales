@@ -21,6 +21,6 @@
    ➡️ Customer Segmentation Analysis: The Consumer segment contributes the most to sales ($1.16M) and profit ($134.12K).
    ![Screenshot (5)](https://github.com/subhajitdey295/Python_Super_Stores_Sales/assets/73297451/27631e19-1745-4b31-a8d3-0a73ade4963a)
 
-✔ Data Visualization (Plotly Library): Utilized Plotlib library to create insightful bar, line and pie charts.
+✔ Data Visualization (Plotly Library): Utilized Plotly library to create insightful bar, line and pie charts.
 
 ✔ Conclusion: The analysis reveals that Technology is the leading category in both sales ($836K) and profit (50.8%), while Consumers drive the highest revenue ($1.16M). November and December emerge as peak sales months, emphasizing seasonal demand. The study highlights key sales trends, category performance, and customer segmentation insights, providing a data-driven approach to optimizing business strategies.
