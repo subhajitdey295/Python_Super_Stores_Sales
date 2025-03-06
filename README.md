@@ -1,7 +1,7 @@
 # Syper_Stores_Sales_Using_Python 
 
 
-✔ Objective: The primary objective of this analysis is to examine key factors influencing superstore sales and profitability, identify trends across categories, and derive data-driven insights using Python.
+✔ Project Objective: The primary objective of this analysis is to examine key factors influencing superstore sales and profitability, identify trends across categories, and derive data-driven insights using Python.
 
 ✔ Data Cleaning (Pandas and Numpy Library): Pandas was utilized for data manipulation, handling missing values, and structuring the dataset for effective analysis. NumPy was used for numerical computations, enabling efficient data processing and transformation.
 
