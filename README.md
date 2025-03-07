@@ -1,4 +1,4 @@
-# Syper_Stores_Sales_Using_Python 
+# Super Store Sales Using Python
 
 
 ✔ Project Objective: The primary objective of this analysis is to examine key factors influencing superstore sales and profitability, identify trends across categories, and derive data-driven insights using Python.
